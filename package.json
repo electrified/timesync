@@ -1,6 +1,6 @@
 {
-  "name": "timesync",
-  "version": "0.2.3",
+  "name": "@skybetintl/timesync",
+  "version": "0.2.3-SBG1",
   "description": "Time synchronization between peers",
   "author": "Jos de Jong <wjosdejong@gmail.com> (https://github.com/josdejong)",
   "main": "./dist/timesync.min.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/enmasseio/timesync.git"
+    "url": "ssh://git@gitlab.sbgdev.com:intl/timesync.git"
   },
   "dependencies": {
     "body-parser": "^1.11.0",
